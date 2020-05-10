@@ -104,6 +104,7 @@
     color: red;
     border-radius: 10px;
     outline: none;
+    background-color: rgba(255, 255, 255, 0.295);
 }
 
 .content {
@@ -144,4 +145,5 @@
     color: red;
     border-radius: 5px;
     outline: none;
+    background-color: rgba(255, 255, 255, 0.295);
 }
